@@ -12,14 +12,6 @@ This lib has two methods:
 
 
 
-### Prerequisites
-
-You need to have installed gameGuardian and know how to use it.
-[GameGuardiam](https://gameguardian.net/download)
-
-If you need to know the current statistics of your sper you can look for that:   [ffbeequip](https://ffbeequip.com/espers.html)
-
-
 ### Edit main -> /main.dart
 
 example:
