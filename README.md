@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
   String _cardYearExpiration  = '2024';
   String _cardCvc             = '123';
   String _idCharge            = 'Primero necesitas generar un token';
-  String _secretKey           = 'sk_test_Af08tUBa....';
+  String _secretKey           = 'sk_test_Af08tUBa....';//<-- your secretKey
   String _monto               = '5000000';
   String _concepto            = 'Invite me a coffee @furthurr https://www.paypal.me/furthurr/50';
 
