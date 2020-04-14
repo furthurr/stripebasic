@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   String _idCharge            = 'Primero necesitas generar un token';
   String _secretKey           = 'sk_test_Af08tUBa....';
   String _monto               = '5000000';
-  String _concepto            = 'invitale un cafe a @furthurr';
+  String _concepto            = 'Invite me a coffee @furthurr https://www.paypal.me/furthurr/50';
 
   @override
   Widget build(BuildContext context) {
